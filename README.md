@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Github!
 - 🌱 I’m currently learning Python!
-
+- LinkedIn: https://www.linkedin.com/in/ilda-rojas-85209638/
 
 
 <!--
