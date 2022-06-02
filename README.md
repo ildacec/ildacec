@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Github!
-- 🌱 I’m currently learning Python!
+- 🌱 Creando Github!
+- 🐍 Inciando en Python!
+- 🚀 Apacionada de los Datos 📊, la seguridad de la Información 🔐 y la agilidad💡
 - LinkedIn: https://www.linkedin.com/in/ilda-rojas-85209638/
+--- Extras
+- 🐶 🐱 Amo los animales, tengos dos perritos y dos gatitos (rescatados) 
 
+  
 
 <!--
 **ildacec/ildacec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
