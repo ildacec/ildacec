@@ -4,6 +4,7 @@
 - 🐍 Inciando en Python!
 - 🚀 Apacionada de los Datos 📊, la seguridad de la Información 🔐 y la agilidad💡
 - LinkedIn: https://www.linkedin.com/in/ilda-rojas-85209638/
+
 --- Extras
 - 🐶 🐱 Amo los animales, tengos dos perritos y dos gatitos (rescatados) 
 
