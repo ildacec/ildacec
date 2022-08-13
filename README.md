@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Creando Github!
-- 🐍 Inciando en Python!
+- 🐍 Python!
 - 🚀 Apacionada de los Datos 📊, la seguridad de la Información 🔐 y la agilidad💡
 - LinkedIn: https://www.linkedin.com/in/ilda-rojas-85209638/
 
