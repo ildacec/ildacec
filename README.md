@@ -6,7 +6,7 @@
 - LinkedIn: https://www.linkedin.com/in/ilda-rojas-85209638/
 
 --- Extras
-- 🐶 🐱 Amo los animales, tengos dos perritos y dos gatitos (rescatados) 
+- 🐶 🐱 🐤  Amo los animales, tengos dos perritos 🐶🐶 y dos gatitos 🐱🐱 (rescatados) 
 
   
 
